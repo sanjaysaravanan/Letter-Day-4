@@ -150,7 +150,7 @@ const array = [
     displayAtOnce: true,
   },
   {
-    text: "Fear of having conflicts You<b>(Only Reason/Soul)</b>",
+    text: "Fear of having conflicts with You<b>(Only Reason/Soul)</b>",
     tagName: "p",
     displayAtOnce: true,
   },
@@ -245,7 +245,6 @@ const array = [
     text: "Wife",
     tagName: "b",
     displayAtOnce: false,
-    color: "red",
   },
   {
     text: "",
@@ -271,7 +270,7 @@ const array = [
   },
   {
     text: `
-I am wrote this for Us( You & Me ) & not because of any specific actions.
+I wrote this for Us( You & Me ) & not because of any specific actions.
 `,
     tagName: "div",
     displayAtOnce: false,
