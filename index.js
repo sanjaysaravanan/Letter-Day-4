@@ -321,7 +321,8 @@ const doOperation = async () => {
       children = [],
     } = array[i];
     const element = document.createElement(tagName);
-    document.body.append(element);
+    const mainBody = document.getElementById('main');
+    mainBody.append(element);
     if (isParent) {
       let j = 0;
       while (j < children.length) {
